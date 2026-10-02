@@ -1,16 +1,28 @@
-## Hi there 👋
+# Afnan Abdullah
 
-<!--
-**AfnanAbdullah1/AfnanAbdullah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronic Engineering Student | Embedded Systems | FPGA | Edge AI
 
-Here are some ideas to get you started:
+Building practical systems at the intersection of **electronics, embedded systems, digital design and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Focus
+
+`Embedded Systems` · `FPGA / Verilog` · `Edge AI` · `Signal Processing` · `Computer Vision` · `R&D`
+
+### 🚀 Featured Projects
+
+* **Vibration Fault Analysis** - Signal processing and fault diagnosis
+* **TrafficLight AI** - Computer vision + ESP32-based intelligent traffic control
+* **LaborLink** - Full-stack labor marketplace platform
+
+### 🔬 Currently Exploring
+
+**FPGA Signal Processing • Edge AI • Predictive Maintenance • Hardware + AI**
+
+### 🎓 Education
+
+**BSc Electronic Engineering**
+The Islamia University of Bahawalpur · 2023–2027
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/engrafnan/) · [GitHub](https://github.com/AfnanAbdullah1)
