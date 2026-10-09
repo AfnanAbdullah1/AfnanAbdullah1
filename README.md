@@ -34,6 +34,18 @@
 
 ---
 
+## Experience & Activities
+
+| Place | Role | What I Did |
+| :--- | :--- | :--- |
+| **CARE Lab (IUB)** | Research Trainee *(2024 – Present)* | Prototyping embedded devices, circuit testing, and soldering on ESP32 & Raspberry Pi. |
+| **DeepEmbed Lab (IUB)** | AI Trainee *(2024 – 2025)* | Studied Machine Learning, Deep Learning, and Computer Vision based on Stanford AI courses. |
+| **PAC Kamra (APF)** | Technical Intern *(Summer 2026)* | 6-week hands-on internship in aviation and electronic equipment manufacturing. |
+| **ISPR** | Analytical Intern *(Summer 2026)* | 6-week internship focused on analytical tasks and communication. |
+| **EE Club & IEEE (IUB)** | President / Management Head | Led student technical teams, arranged workshops, and organized campus tech events. |
+
+---
+
 ## What I Work With
 
 ### Programming & Software
@@ -91,18 +103,6 @@
 - **Easy Search:** Helps employers find workers by location, skill, pricing, and ratings.
 - **Job Management:** Handles the full hiring process from sending offers to marking jobs done and leaving 5-star reviews.
 - **Tags:** `Python` `Web Development` `Database`
-
----
-
-## Experience & Activities
-
-| Place | Role | What I Did |
-| :--- | :--- | :--- |
-| **CARE Lab (IUB)** | Research Trainee *(2024 – Present)* | Prototyping embedded devices, circuit testing, and soldering on ESP32 & Raspberry Pi. |
-| **DeepEmbed Lab (IUB)** | AI Trainee *(2024 – 2025)* | Studied Machine Learning, Deep Learning, and Computer Vision based on Stanford AI courses. |
-| **PAC Kamra (APF)** | Technical Intern *(Summer 2026)* | 6-week hands-on internship in aviation and electronic equipment manufacturing. |
-| **ISPR** | Analytical Intern *(Summer 2026)* | 6-week internship focused on analytical tasks and communication. |
-| **EE Club & IEEE (IUB)** | President / Management Head | Led student technical teams, arranged workshops, and organized campus tech events. |
 
 ---
 
