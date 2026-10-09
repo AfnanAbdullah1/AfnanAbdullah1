@@ -86,7 +86,7 @@
 
 ---
 
-### LaborLink — Full-Stack Marketplace
+### [LaborLink — Full-Stack Marketplace](https://github.com/AfnanAbdullah1/CEPLabor_Link_Python.git)
 > *A web platform connecting local daily workers with employers.*
 - **Easy Search:** Helps employers find workers by location, skill, pricing, and ratings.
 - **Job Management:** Handles the full hiring process from sending offers to marking jobs done and leaving 5-star reviews.
