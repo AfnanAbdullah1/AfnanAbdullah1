@@ -1,246 +1,122 @@
 <div align="center">
 
-# Afnan Abdullah
+# Hi there, I'm Afnan Abdullah 👋
 
-### Electronic Engineering Student building embedded, AI, and signal-processing systems
+### Electronic Engineering Student · Embedded Systems · Edge AI · Digital Design
 
-<p>
-  <a href="https://github.com/AfnanAbdullah1">
-    <img src="https://img.shields.io/badge/GitHub-AfnanAbdullah1-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/engrafnan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Engr.%20Afnan%20Abdullah-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:engr.afnan@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-AfnanAbdullah1-181717?style=flat-square&logo=github)](https://github.com/AfnanAbdullah1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr.%20Afnan%20Abdullah-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/engrafnan/)
+[![Email](https://img.shields.io/badge/Email-engr.afnan%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:engr.afnan@hotmail.com)
+[![Location](https://img.shields.io/badge/Location-Bahawalpur%2C%20Pakistan-grey?style=flat-square&logo=google-maps&logoColor=red)](https://maps.google.com)
 
-<p>
-  Embedded Systems · Digital Design · Signal Processing · Computer Vision · AI Integration
+<p align="center">
+  <em>Bridging physical hardware and intelligent systems through microcontrollers, signal processing, and Edge AI.</em>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I am an **Electronic Engineering student at The Islamia University of Bahawalpur** with practical experience in embedded systems, electronics prototyping, signal analysis, computer vision, and AI-based applications.
-
-My work focuses on connecting hardware and software to develop practical engineering systems. I enjoy working with microcontrollers, sensors, development boards, electronic circuits, and intelligent software applications.
-
-My current technical interests include:
-
-- Embedded systems and IoT
-- FPGA and digital system design
-- Signal processing and predictive maintenance
-- Computer vision and Edge AI
-- Hardware-software integration
-- Electronics research and development
+- 🎓 **Electronic Engineering undergraduate** at *The Islamia University of Bahawalpur* (2023–2027).
+- 🔬 **Research Trainee** at the *Center of Automation, Robotics and Embedded Systems (CARE)* prototyping on ESP32, Raspberry Pi 5, and Rockchip RK3588S.
+- 🧠 **AI Engineer Fellow** through *DeepEmbed Lab* (10-month intensive program based on Stanford AI curriculum).
+- ✈️ **Incoming Engineering Intern** at *Pakistan Aeronautical Complex (PAC), Kamra* (APF) & *ISPR*.
+- 🎯 **Leadership**: President & Former General Secretary of the *Electronic Engineering Club, IUB*; Management Head at *IEEE UCET IUB*.
 
 ---
 
-## Technical Profile
+## 🛠️ Technical Stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Embedded and Hardware
-
-- ESP32 and ESP32-CAM
-- Arduino UNO
-- Raspberry Pi 5
-- Rockchip RK3588S
-- Microcontroller programming
-- Circuit testing and troubleshooting
-- Soldering and hardware assembly
-- Sensors and IoT integration
-
-</td>
-<td width="50%" valign="top">
-
-### Software and Engineering
-
-- Python, C, and C++
-- MATLAB and Simulink
-- Object-Oriented Programming
-- Machine Learning and Deep Learning
-- Computer Vision and YOLOv8
-- Signal processing and fault diagnosis
-- Flask and web-based dashboards
-- Technical documentation
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Hardware & Embedded</h4>
+      <img src="https://img.shields.io/badge/ESP32%20%2F%20CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+      <img src="https://img.shields.io/badge/Rockchip%20RK3588S-2C3E50?style=flat-square" alt="RK3588S" />
+      <img src="https://img.shields.io/badge/FPGA%20%26%20Digital%20Logic-4B0082?style=flat-square" alt="FPGA" />
+      <p><sub>Circuit Troubleshooting · Reverse Engineering · Soldering · Sensor Fusion</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 EDA, Simulation & CAD</h4>
+      <img src="https://img.shields.io/badge/MATLAB%20%26%20Simulink-ED8B00?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/Cadence%20IC%20Design-CC0000?style=flat-square" alt="Cadence" />
+      <img src="https://img.shields.io/badge/ADS-007ACC?style=flat-square" alt="ADS" />
+      <img src="https://img.shields.io/badge/PSpice%20%2F%20PSIM-205493?style=flat-square" alt="PSpice" />
+      <p><sub>Signal Processing · Filter Design · Spectral Analysis · Fault Diagnostics</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI, Computer Vision & Signal</h4>
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" alt="YOLOv8" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="DL" />
+      <p><sub>Edge AI · Predictive Maintenance · Anomaly Detection · Object Tracking</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frameworks</h4>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <p><sub>Object-Oriented Programming (OOP) · REST APIs · Embedded Firmware</sub></p>
+    </td>
+  </tr>
 </table>
 
-### Tools and Technologies
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C- A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Git- F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+## 🚀 Featured Projects
+
+### 🚦 [TrafficLight AI — Smart Hybrid Traffic Control System](https://github.com/AfnanAbdullah1/TrafficLight_Ai)
+> **Edge AI · ESP32 · ESP32-CAM · YOLOv8 · Flask · IoT**
+- Built an intelligent traffic controller pairing an **ESP32-WROOM** with **3× ESP32-CAM nodes** and HC-SR04 ultrasonic sensors.
+- Fine-tuned custom **YOLOv8** to compute vehicle density and dynamically adapt green-light intervals ($5\text{s} - 10\text{s}$) with automated accident detection.
+- Developed a centralized **Flask control panel** supporting multi-channel video streaming, emergency vehicle override routes, and secure tunneling (Ngrok / Cloudflare).
+
+### ⚙️ [Real-Time Vibration Signal Analysis](https://github.com/AfnanAbdullah1/Real-Time-Vibration-Signal-Analysis-for-Mechanical-Systems)
+> **MATLAB · Python · Signal Processing · Predictive Maintenance · Anomaly Detection**
+- Implemented automated vibration-signature diagnostics to classify gear degradation across **6 operational stages**.
+- Designed a custom **peak-thresholding anomaly detection algorithm** capable of isolating high-frequency spikes and localized surface-wear defects.
+- Streamlined industrial fault-diagnosis pipelines directly bridging MATLAB signal-processing toolboxes with Python analytics.
+
+### 💼 LaborLink — Full-Stack Marketplace Platform
+> **Python · Full-Stack · Database Architecture · Web Application**
+- Developed an end-to-end service marketplace with tailored search filters across worker geo-location, skillsets, pricing brackets, and ratings.
+- Integrated bi-directional job tracking, contract completion verification, and verified 5-star customer review workflows.
 
 ---
 
-## GitHub Activity
+## 🏛️ Experience & Leadership
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfnanAbdullah1&show_icons=true&hide_border=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=555555" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAbdullah1&layout=compact&hide_border=true&theme=transparent&title_color=2f80ed&text_color=555555" height="165" alt="Most used languages">
-</p>
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/engrafnan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:engr.afnan@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-engr.afnan%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <i>Building practical systems where electronics meets intelligence.</i>
-</p>
+| Organization | Role / Initiative | Focus Area |
+| :--- | :--- | :--- |
+| **CARE — IUB** | Research Trainee *(2024 – Present)* | Embedded R&D, RK3588S & RPi 5 prototyping, circuit diagnostics |
+| **DeepEmbed Lab — IUB** | AI Engineer Fellow *(2024 – 2025)* | Stanford AI curriculum (ML, DL, Vision, Generative AI) |
+| **PAC Kamra (APF)** | Technical Summer Intern *(2026)* | Avionics & defense electronic manufacturing systems |
+| **ISPR** | Analytical Summer Intern *(2026)* | Analytical workflows and engineering communications |
+| **Electronic Engineering Club** | President & Ex-General Secretary | Led university technical events, hackathons, and lab workshops |
+| **IEEE UCET IUB Chapter** | Management Head | Directed volunteer operations, technical seminars, and outreach |
 
 ---
 
-## Featured Projects
+## 📊 GitHub Analytics
 
-### 1. Real-Time Vibration Signal Analysis
-
-A MATLAB and Python-based system for analyzing vibration signals and identifying mechanical faults.
-
-**Technical work**
-
-- Analyzed gear degradation across six operating conditions.
-- Performed automated vibration-signal analysis.
-- Implemented peak-thresholding for detecting severe spikes.
-- Identified surface-wear and vibration anomalies.
-- Applied signal-processing methods for mechanical fault diagnosis.
-
-<a href="https://github.com/AfnanAbdullah1/Real-Time-Vibration-Signal-Analysis-for-Mechanical-Systems">
-  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Vibration analysis repository">
-</a>
-
-`MATLAB` `Python` `Signal Processing` `Fault Diagnosis` `Anomaly Detection`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfnanAbdullah1&show_icons=true&hide_border=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAbdullah1&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+</div>
 
 ---
 
-### 2. TrafficLight AI
-
-A smart hybrid traffic-control system combining computer vision, embedded hardware, sensors, and a web dashboard.
-
-**Technical work**
-
-- Customized a YOLOv8 model for vehicle detection.
-- Adjusted green-light duration according to vehicle density.
-- Developed an intersection controller using an ESP32-WROOM.
-- Integrated three ESP32-CAM nodes.
-- Combined camera-based detection with HC-SR04 ultrasonic sensors.
-- Built a Flask dashboard with live multi-camera streams.
-- Added manual light control, emergency routing, and remote access.
-
-<a href="https://github.com/AfnanAbdullah1/TrafficLight_Ai">
-  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="TrafficLight AI repository">
-</a>
-
-`YOLOv8` `Computer Vision` `ESP32` `ESP32-CAM` `IoT` `Flask`
-
----
-
-### 3. LaborLink
-
-A full-stack labor marketplace platform that connects employers with workers.
-
-**Technical work**
-
-- Created worker search based on location, skills, price, and ratings.
-- Added customized job offers.
-- Implemented job-request and work-completion tracking.
-- Added employer reviews and five-star ratings.
-- Developed an end-to-end hiring and job-management workflow.
-
-`Python` `Full-Stack Development` `Web Application` `Database`
-
-> The repository link will be added when the project repository is published.
-
----
-
-## Experience
-
-### Research Trainee
-
-**Center of Automation, Robotics and Embedded Systems — IUB**  
-`April 2024 – Present`
-
-- Contribute to research and development in embedded systems and automation.
-- Prototype systems using ESP32, Arduino UNO, Raspberry Pi 5, and Rockchip RK3588S.
-- Perform hardware diagnostics, troubleshooting, and electronic-circuit testing.
-- Assemble development boards and custom electronic systems.
-- Perform soldering and hardware-integration work.
-
-### AI Engineer Training Course
-
-**DeepEmbed Lab, Department of Electronic Engineering — IUB**  
-`December 2024 – October 2025`
-
-- Completed a 10-month AI training program based on Stanford AI courses.
-- Studied machine learning, deep learning, NLP, and generative AI.
-- Worked with AI models and embedded-system applications.
-- Gained experience through the Pakistan AI Vision Group and DeepEmbed Lab, IUB.
-
----
-
-## Education
-
-### BSc Electronic Engineering
-
-**The Islamia University of Bahawalpur**  
-`2023 – 2027`
-
-### FSc Pre-Engineering
-
-**The Leaders College Bahawalpur**  
-`2021 – 2023`
-
----
-
-## Leadership
-
-- **President** — Electronic Engineering Club, IUB
-- **General Secretary** — Electronic Engineering Club, IUB
-- **Press Secretary** — Electronic Engineering Club, IUB
-- **Volunteer Office Bearer** — Electronic Engineering Club, IUB
-- **Management Head** — IEEE UCET IUB Chapter
-- **Coordinator of Volunteers** — IEEE UCET IUB Chapter
-
----
-
-## Currently Exploring
-
-```text
-FPGA Signal Processing
-Embedded Computer Vision
-Edge AI for Predictive Maintenance
-Verilog-Based Digital Design
-Hardware-Software Integration
-VLSI and Semiconductor Technologies
-```
-
-
+<div align="center">
+  <sub>Open to collaborations in <b>Embedded Systems</b>, <b>Edge AI</b>, and <b>FPGA / Digital Design</b>.</sub><br>
+  <b>Let's build reliable, intelligent hardware together!</b>
+</div>
