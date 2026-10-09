@@ -94,6 +94,32 @@ My current technical interests include:
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfnanAbdullah1&show_icons=true&hide_border=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=555555" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAbdullah1&layout=compact&hide_border=true&theme=transparent&title_color=2f80ed&text_color=555555" height="165" alt="Most used languages">
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/engrafnan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:engr.afnan@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-engr.afnan%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building practical systems where electronics meets intelligence.</i>
+</p>
+
+---
+
 ## Featured Projects
 
 ### 1. Real-Time Vibration Signal Analysis
@@ -217,28 +243,4 @@ Hardware-Software Integration
 VLSI and Semiconductor Technologies
 ```
 
----
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfnanAbdullah1&show_icons=true&hide_border=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=555555" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAbdullah1&layout=compact&hide_border=true&theme=transparent&title_color=2f80ed&text_color=555555" height="165" alt="Most used languages">
-</p>
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/engrafnan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:engr.afnan@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-engr.afnan%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <i>Building practical systems where electronics meets intelligence.</i>
-</p>
